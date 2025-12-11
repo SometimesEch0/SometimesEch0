@@ -37,6 +37,14 @@
 
 ###
 
+<br clear="both">
+
 <h4 align="left">- 🌱 I’m currently learning C#, and Unity.<br>- 📫 How to reach me: rodriguezobi93@gmail.com<br>- 👀 I'm interested in Gaming, Music, Anime, Reading (Comics, Manga, Manhwa).<br>- ⚡ Fun fact: I dive into a lot of hobbies. From playing instruments to Rollerblades, and Card games (Such as Magic: the Gathering, Pokemon TCG) to Building Gundam Model Kits</h4>
+
+###
+
+<div align="left">
+  <img height="160" src="https://media.tenor.com/cpF9NupQkqEAAAAC/guilty-gear.gif"  />
+</div>
 
 ###
